@@ -1,0 +1,14 @@
+blockSize:256
+normalized:1
+ray_cast:1
+sample_size:2
+file:sponza.obj
+leafNodeSize:400
+resolution:800,600
+camera_location:0,-1,0
+camera_lookat:0, 0, 0
+camera_direction:0,1,0
+light_pos:0.3,0.5,0
+light_color:1,1,1
+light_in:1
+only_second:1
